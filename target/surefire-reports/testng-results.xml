@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-04-15T12:36:46 PDT" name="Suite" finished-at="2019-04-15T12:36:46 PDT" duration-ms="56">
+    <groups>
+    </groups>
+    <test started-at="2019-04-15T12:36:46 PDT" name="Test" finished-at="2019-04-15T12:36:46 PDT" duration-ms="56">
+      <class name="frameworkmaven.AppiumTest">
+        <test-method signature="appinstall()[pri:0, instance:frameworkmaven.AppiumTest@24269709]" started-at="2019-04-15T12:36:46 PDT" name="appinstall" finished-at="2019-04-15T12:36:46 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appinstall -->
+        <test-method signature="mobileapp()[pri:0, instance:frameworkmaven.AppiumTest@24269709]" started-at="2019-04-15T12:36:46 PDT" name="mobileapp" finished-at="2019-04-15T12:36:46 PDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileapp -->
+      </class> <!-- frameworkmaven.AppiumTest -->
+      <class name="frameworkmaven.SeleniumTest">
+        <test-method signature="browserUI()[pri:0, instance:frameworkmaven.SeleniumTest@5dda768f]" started-at="2019-04-15T12:36:46 PDT" name="browserUI" finished-at="2019-04-15T12:36:46 PDT" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserUI -->
+        <test-method signature="webelementsUI()[pri:0, instance:frameworkmaven.SeleniumTest@5dda768f]" started-at="2019-04-15T12:36:46 PDT" name="webelementsUI" finished-at="2019-04-15T12:36:46 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webelementsUI -->
+      </class> <!-- frameworkmaven.SeleniumTest -->
+      <class name="frameworkmaven.RestAPITest">
+        <test-method signature="postman()[pri:0, instance:frameworkmaven.RestAPITest@7a8c8dcf]" started-at="2019-04-15T12:36:46 PDT" name="postman" finished-at="2019-04-15T12:36:46 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postman -->
+        <test-method signature="soapui()[pri:0, instance:frameworkmaven.RestAPITest@7a8c8dcf]" started-at="2019-04-15T12:36:46 PDT" name="soapui" finished-at="2019-04-15T12:36:46 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- soapui -->
+      </class> <!-- frameworkmaven.RestAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

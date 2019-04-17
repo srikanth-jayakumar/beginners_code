@@ -1,0 +1,3 @@
+frameworkmaven\RestAPITest.class
+frameworkmaven\SeleniumTest.class
+frameworkmaven\AppiumTest.class
